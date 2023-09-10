@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/journeybuddy/static/css/main.e6c13ad2.css",
+    "main.js": "/journeybuddy/static/js/main.1890c76d.js",
+    "static/js/787.fc842a8c.chunk.js": "/journeybuddy/static/js/787.fc842a8c.chunk.js",
+    "static/media/loading2.gif": "/journeybuddy/static/media/loading2.ca9d6d7b9da8d1e8a0d8.gif",
+    "static/media/design1.png": "/journeybuddy/static/media/design1.290defdcd8c71404908b.png",
+    "static/media/design5.png": "/journeybuddy/static/media/design5.2d01b51f1a7b03c43df9.png",
+    "static/media/design10.png": "/journeybuddy/static/media/design10.5142c31dc3f8fdd32937.png",
+    "static/media/design18.png": "/journeybuddy/static/media/design18.c82d03ff37e4eaac2d73.png",
+    "static/media/logo2.png": "/journeybuddy/static/media/logo2.e1b6cb8cac6a69df2286.png",
+    "static/media/design4.png": "/journeybuddy/static/media/design4.4242f3d1d5cc0b174960.png",
+    "static/media/design3.png": "/journeybuddy/static/media/design3.4df81e0f78f93955e89c.png",
+    "index.html": "/journeybuddy/index.html",
+    "main.e6c13ad2.css.map": "/journeybuddy/static/css/main.e6c13ad2.css.map",
+    "main.1890c76d.js.map": "/journeybuddy/static/js/main.1890c76d.js.map",
+    "787.fc842a8c.chunk.js.map": "/journeybuddy/static/js/787.fc842a8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1890c76d.js"
+  ]
+}
